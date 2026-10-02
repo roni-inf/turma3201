@@ -1,0 +1,13 @@
+
+
+header{
+    background-color: darkblue;
+    min-height: 10vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+}
